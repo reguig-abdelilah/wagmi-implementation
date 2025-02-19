@@ -1,3 +1,3 @@
 export default function Home() {
-    return <h1 className="text-2xl font-bold text-center">Transactions Page</h1>;
+    return <h1 className="text-2xl font-bold text-center">Here goes your transactions</h1>;
   }
